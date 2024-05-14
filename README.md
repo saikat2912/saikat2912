@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on enthusiastic web developers
 - 🤔 I’m looking for help with all
 - 💬 Ask me about web development stuffs
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: saikat2270@gmail.com
+- 😄 Pronouns: he
+- ⚡ Fun fact: Life is a simulation 
 -->
